@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+#section2 {
+	position:relative;
+	top:9px;
+}
+#foto1 {
+	border: black 4px solid;
+}
+
+#foto2 {
+	border: black 4px solid;
+	position: relative;
+}
+
+#foto3 {
+	border: black 4px solid;
+	position:relative;
+	right: 30px;
+}
+
+#foto4 {
+	border: black 4px solid;
+	position:relative;
+	width: 300px;
+	height: 300px;
+	left:210px;
+}
+
+#arriba {
+	border: black 3px solid;
+	display: inline;
+	content-box;
+	width: 200px;
+	height: 100px;
+}
+
+#medio {
+	border: black 3px solid;
+	display: inline-block;
+	content-box;
+	width: 200px;
+	height: 100px;
+}
+
+#bajo {
+	border: black 3px solid;
+	display: inline-block;
+	content-box;
+	width: 200px;
+	height: 100px;
+	position: relative;
+	right:280px;
+}
+
+#bajo1 {
+	border: black 3px solid;
+	display: block;
+	content-box;
+	width: 200px;
+	height: 100px;
+	bottom: 140px;
+	left: 525px;
+	position:relative;
+}
+
+#bajo2 {
+	border: black 3px solid;
+	display: inline-block;
+	content-box;
+	width: 200px;
+	height: 100px;
+	bottom: 185px;
+	left:70px;
+	position:relative;
+}
+
+#bajo3 {
+	border: green 4px solid;
+	display: inline-block;
+	position:fixed;
+	right: 0px; bottom: 0px;
+	content-box;
+	width: 200px;
+	height: 100px;
+}
